@@ -1,0 +1,19 @@
+{
+  "name": "superdb",
+  "version": "1.0.0",
+  "description": "Mongodb & nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amontourdeprogrammer/superDB.git"
+  },
+  "author": "Lorena, Isabelle, Sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amontourdeprogrammer/superDB/issues"
+  },
+  "homepage": "https://github.com/amontourdeprogrammer/superDB#readme"
+}
