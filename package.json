@@ -4,7 +4,7 @@
   "description": "Mongodb & nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/amontourdeprogrammer/superDB/issues"
   },
-  "homepage": "https://github.com/amontourdeprogrammer/superDB#readme"
+  "homepage": "https://github.com/amontourdeprogrammer/superDB#readme",
+  "dependencies": {
+    "expect": "^1.20.2",
+    "expect.js": "^0.3.1",
+    "mocha": "^3.3.0",
+    "mongodb": "^2.2.26"
+  }
 }
